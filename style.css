@@ -1,0 +1,54 @@
+html {
+	position: relative;
+	scroll-behavior: smooth;
+}
+
+body {
+	margin-bottom: 100px;
+}
+
+.navbar {
+	color:yellow;
+}
+
+.prtd {
+	min-height: 880px;
+}
+
+.ttg {
+	min-height: 655px;
+	background-color: #0080ff;
+}
+
+.tabout {
+	color: white;
+	font-size: 2vw;			
+}
+
+.faq{
+	min-height: 655px;
+	background-color: white;
+}
+
+.tfaq {
+	font-size: 1.5vw;
+	margin-top: 2vw;	
+}
+
+footer {
+	position :absolute;
+	bottom: 0;
+	width: 100%;
+	height: 100px;
+	background-color: #0080ff;
+	padding-top: 30px; 
+}
+
+footer p {
+	color: white;
+}
+
+footer p i {
+	color: salmon;
+}
+
